@@ -1,0 +1,10 @@
+C:\Users\420pr\source\repos\GeomTransform\bin\Debug\GeomTransform.exe.config
+C:\Users\420pr\source\repos\GeomTransform\bin\Debug\GeomTransform.exe
+C:\Users\420pr\source\repos\GeomTransform\bin\Debug\GeomTransform.pdb
+C:\Users\420pr\source\repos\GeomTransform\obj\Debug\GeomTransform.csproj.AssemblyReference.cache
+C:\Users\420pr\source\repos\GeomTransform\obj\Debug\GeomTransform.Form1.resources
+C:\Users\420pr\source\repos\GeomTransform\obj\Debug\GeomTransform.Properties.Resources.resources
+C:\Users\420pr\source\repos\GeomTransform\obj\Debug\GeomTransform.csproj.GenerateResource.cache
+C:\Users\420pr\source\repos\GeomTransform\obj\Debug\GeomTransform.csproj.CoreCompileInputs.cache
+C:\Users\420pr\source\repos\GeomTransform\obj\Debug\GeomTransform.exe
+C:\Users\420pr\source\repos\GeomTransform\obj\Debug\GeomTransform.pdb
